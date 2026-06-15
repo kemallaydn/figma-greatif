@@ -1,7 +1,7 @@
 
-  # Premium Campaign Creation Journey
+  # Untitled
 
-  This is a code bundle for Premium Campaign Creation Journey. The original project is available at https://www.figma.com/design/4VsnbkLtMv9OLwjSDFl0yj/Premium-Campaign-Creation-Journey.
+  This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/BmCjtckIGIS5abl20C38gU/Untitled.
 
   ## Running the code
 
