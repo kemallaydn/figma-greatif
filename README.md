@@ -1,7 +1,7 @@
 
-  # Untitled
+  # Continue project design
 
-  This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/BmCjtckIGIS5abl20C38gU/Untitled.
+  This is a code bundle for Continue project design. The original project is available at https://www.figma.com/design/ys72slqwTlg7SXW0xUFL7x/Continue-project-design.
 
   ## Running the code
 
